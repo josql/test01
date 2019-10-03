@@ -11,6 +11,7 @@ import (
 
 // -------------------------------------------------------
 func main() {
+
 	var order = 3
 	var hash = "#"
 	var carpet = []string{hash}
